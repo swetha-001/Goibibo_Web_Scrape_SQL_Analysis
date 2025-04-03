@@ -1,0 +1,49 @@
+Flight_Name,From,Departure_Time,Total_Duration_Hours,Total_Duration_Minutes,To,Arrival_Time,Price,Layover,Layover_city,Layover_Duration
+IndiGo,Chennai,07:00:00,5,20,New Delhi,12:20:00,"6,173",Yes,Bengaluru,1:15
+IndiGo,Chennai,11:40:00,6,35,New Delhi,18:15:00,"6,173",Yes,Patna,2:25
+IndiGo,Chennai,17:25:00,6,45,New Delhi,00:10:00,"6,173",Yes,Coimbatore,2:30
+IndiGo,Chennai,05:55:00,2,55,New Delhi,08:50:00,"6,443",No,,
+Air India Express,Chennai,14:00:00,9,5,New Delhi,23:05:00,"6,454",Yes,Varanasi,4:50
+IndiGo,Chennai,07:35:00,3,5,New Delhi,10:40:00,"6,548",No,,
+Air India,Chennai,06:00:00,2,55,New Delhi,08:55:00,"6,611",No,,
+Air India,Chennai,21:45:00,3,20,New Delhi,01:05:00,"6,611",No,,
+IndiGo,Chennai,21:05:00,3,0,New Delhi,00:05:00,"6,653",No,,
+IndiGo,Chennai,23:00:00,3,0,New Delhi,02:00:00,"6,653",No,,
+IndiGo,Chennai,06:30:00,5,30,New Delhi,12:00:00,"6,694",Yes,Coimbatore,1:10
+IndiGo,Chennai,05:55:00,6,15,New Delhi,12:10:00,"6,694",Yes,Madurai,1:20
+IndiGo,Chennai,06:45:00,6,50,New Delhi,13:35:00,"6,694",Yes,Vijayawada,3:05
+Air India,Chennai,06:50:00,3,0,New Delhi,09:50:00,"6,912",No,,
+Air India,Chennai,08:05:00,2,45,New Delhi,10:50:00,"6,912",No,,
+Air India,Chennai,09:50:00,3,0,New Delhi,12:50:00,"6,912",No,,
+Air India,Chennai,11:20:00,2,55,New Delhi,14:15:00,"6,912",No,,
+IndiGo,Chennai,03:15:00,2,55,New Delhi,06:10:00,"6,968",No,,
+IndiGo,Chennai,10:50:00,2,50,New Delhi,13:40:00,"6,968",No,,
+IndiGo,Chennai,13:15:00,2,55,New Delhi,16:10:00,"6,968",No,,
+IndiGo,Chennai,17:50:00,2,55,New Delhi,20:45:00,"6,968",No,,
+Air India,Chennai,16:55:00,2,55,New Delhi,19:50:00,"7,090",No,,
+Air India,Chennai,20:40:00,2,45,New Delhi,23:25:00,"7,090",No,,
+Air India Express,Chennai,06:00:00,9,5,New Delhi,15:05:00,"7,102",Yes,Surat,4:50
+IndiGo,Chennai,01:10:00,6,10,New Delhi,07:20:00,"7,266",Yes,Pune,2:15
+IndiGo,Chennai,15:45:00,2,55,New Delhi,18:40:00,"7,283",No,,
+Air India,Chennai,16:00:00,2,50,New Delhi,18:50:00,"7,283",No,,
+IndiGo,Chennai,06:05:00,5,25,New Delhi,11:30:00,"7,388",Yes,Hyderabad,1:40
+Air India,Chennai,17:30:00,3,0,New Delhi,20:30:00,"7,601",No,,
+IndiGo,Chennai,16:30:00,6,5,New Delhi,22:35:00,"7,895",Yes,Ranchi,1:55
+IndiGo,Chennai,11:50:00,6,15,New Delhi,18:05:00,"7,895",Yes,Bengaluru,2:05
+IndiGo,Chennai,08:00:00,5,10,New Delhi,13:10:00,"8,292",Yes,Hyderabad,1:20
+IndiGo,Chennai,20:20:00,5,40,New Delhi,02:00:00,"8,435",Yes,Hyderabad,1:55
+IndiGo,Chennai,19:30:00,6,30,New Delhi,02:00:00,"8,435",Yes,Hyderabad,2:45
+IndiGo,Chennai,17:45:00,6,5,New Delhi,23:50:00,"8,587",Yes,Ahmedabad,2:00
+IndiGo,Chennai,03:10:00,6,35,New Delhi,09:45:00,"8,765",Yes,Pune,2:40
+IndiGo,Chennai,07:05:00,6,25,New Delhi,13:30:00,"8,859",Yes,Mumbai,2:05
+IndiGo,Chennai,09:10:00,6,50,New Delhi,16:00:00,"8,859",Yes,Mumbai,2:20
+IndiGo,Chennai,12:00:00,5,40,New Delhi,17:40:00,"9,347",Yes,Hyderabad,2:00
+IndiGo,Chennai,08:55:00,5,45,New Delhi,14:40:00,"9,347",Yes,Bengaluru,1:40
+IndiGo,Chennai,04:55:00,6,5,New Delhi,11:00:00,"9,347",Yes,Pune,2:00
+IndiGo,Chennai,08:20:00,6,10,New Delhi,14:30:00,"9,347",Yes,Kolkata,1:15
+Air India Express,Chennai,05:00:00,5,55,New Delhi,10:55:00,"9,639",Yes,Bhubaneswar,1:15
+IndiGo,Chennai,09:20:00,5,5,New Delhi,14:25:00,"10,183",Yes,Hyderabad,1:30
+Air India,Chennai,07:30:00,5,45,New Delhi,13:15:00,"10,202",Yes,Bengaluru,1:40
+IndiGo,Chennai,18:15:00,5,50,New Delhi,00:05:00,"10,206",Yes,Hyderabad,2:00
+IndiGo,Chennai,19:30:00,2,55,New Delhi,22:25:00,"10,748",No,,
+SpiceJet,Chennai,14:40:00,4,50,New Delhi,19:30:00,"12,110",Yes,Shirdi,0:35
