@@ -49,10 +49,3 @@ The core of this project lies in SQL analysis, where I formulated queries to ext
 ## Conclusion
 
 This project showcases my proficiency in web scraping, data cleaning, and SQL analysis. By applying these skills to real-world flight data, I extracted meaningful insights that can benefit travelers and airlines alike.
-
-## Repository Purpose
-
-I created this GitHub repository to share my Goibibo Flight Data Scraping and SQL Analysis project. The repository serves as an example of my data manipulation and analysis skills, providing potential employers and collaborators with a tangible demonstration of my capabilities.
-
----
-
